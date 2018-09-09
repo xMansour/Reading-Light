@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Reading light</string>
+    <string name="button_pickcolor">Pick a Color</string>
+</resources>
